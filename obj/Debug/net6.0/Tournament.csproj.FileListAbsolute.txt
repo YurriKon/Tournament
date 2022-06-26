@@ -1,0 +1,15 @@
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\Tournament.csproj.AssemblyReference.cache
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\Tournament.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\Tournament.AssemblyInfoInputs.cache
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\Tournament.AssemblyInfo.cs
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\Tournament.csproj.CoreCompileInputs.cache
+D:\GeekBrains\С#\Tournament\bin\Debug\net6.0\Tournament.exe
+D:\GeekBrains\С#\Tournament\bin\Debug\net6.0\Tournament.deps.json
+D:\GeekBrains\С#\Tournament\bin\Debug\net6.0\Tournament.runtimeconfig.json
+D:\GeekBrains\С#\Tournament\bin\Debug\net6.0\Tournament.dll
+D:\GeekBrains\С#\Tournament\bin\Debug\net6.0\Tournament.pdb
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\Tournament.dll
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\refint\Tournament.dll
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\Tournament.pdb
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\Tournament.genruntimeconfig.cache
+D:\GeekBrains\С#\Tournament\obj\Debug\net6.0\ref\Tournament.dll
